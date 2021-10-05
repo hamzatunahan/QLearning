@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author ozgur
+ * @author hamza
  */
 public class Graphs extends javax.swing.JFrame {
 

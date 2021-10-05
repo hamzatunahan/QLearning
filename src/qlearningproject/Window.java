@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author ozgur
+ * @author hamza
  */
 public class Window extends javax.swing.JFrame {
 

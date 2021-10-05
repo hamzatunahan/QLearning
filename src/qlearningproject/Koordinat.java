@@ -7,7 +7,7 @@ package qlearningproject;
 
 /**
  *
- * @author ozgur
+ * @author hamza
  */
 public class Koordinat {
     private int x;
